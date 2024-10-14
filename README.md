@@ -7,7 +7,7 @@
 
 - 👨‍💻 **Occupation**: I am a keen programmer and am committed to becoming a good C user and embedded developer.
 - 🌐 **Languages**: My repertoire includes but is not limited to C/C++,HTML, CSS...
-- 💻 **Editors**: My favorite editors are Neovim, VSCode.
+- 💻 **Editors**: My favorite editors are VSCode.
 - 🖥️ **Operating Systems**: I primarily work on  Windows systems.
 
 ## 📚 Learning Plan
@@ -17,7 +17,11 @@
 - 📖 **Programming Languages**: Continue to delve deeper into C/C++ and Embedded.
 - 🎨 **Game Design**: Study game design theories and understand player psychology.
 - 🛠️ **Tool Proficiency**: Master various development tools.
-  
+## 😎 My hobbies
+- 🏀⚽️I enjoy watching basketball and football in my free time.
+- ✈️One of my dreams is to travel around the world with the people I love.
+- 🐈️I love kittens very much.
+- 🎧️My favourite music styles are rap and R&B.
 ## 🔗 My social links
 
 - 📺️ **Bilibili**: [神に見捨てられる_](https://space.bilibili.com/443681064?spm_id_from=333.1007.0.0)
