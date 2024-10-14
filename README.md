@@ -6,13 +6,13 @@
 ## 🥳 About Me
 
 - 👨‍💻 **Occupation**: I am a passionate learner of programming, aspiring to become an independent game developer.
-- 🌐 **Languages**: My repertoire includes but is not limited to C/C++, Lua, HTML, CSS...
-- 💻 **Editors**: My favorite editors are Neovim, VSCode, and Obsidian.
-- 🖥️ **Operating Systems**: I primarily work on Arch Linux and Windows systems.
+- 🌐 **Languages**: My repertoire includes but is not limited to C/C++,HTML, CSS...
+- 💻 **Editors**: My favorite editors are Neovim, VSCode.
+- 🖥️ **Operating Systems**: I primarily work on  Windows systems.
 
 ## 📚 Learning Plan
 
-<img align="right" src="https://count.getloli.com/get/@:xiaoCRQ?theme=rule34">
+<img align="right" src="https://count.getloli.com/get/@:xiao0812-206?theme=rule34">
 
 - 📖 **Programming Languages**: Continue to delve deeper into C/C++ and Lua.
 - 🎨 **Game Design**: Study game design theories and understand player psychology.
@@ -23,5 +23,5 @@
 - 📺️ **Bilibili**: [小CRQ](https://space.bilibili.com/449655435?spm_id_from=333.999.0.0)
 
 ## ✨ My Github stats
-[![xiaoCRQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoCRQ&show_icons=true&count_private=true)](https://github.com/xiaoCRQ)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoCRQ&layout=compact)](https://github.com/xiaoCRQ) 
+[![xiao0812-206's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiao0812-206&show_icons=true&count_private=true)](https://github.com/xiao0812-206)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiao0812-206&layout=compact)](https://github.com/xiao0812-206) 
