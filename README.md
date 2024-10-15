@@ -10,7 +10,7 @@
 - 💻 **Editors**: My favorite editors are VSCode.
 - 🖥️ **Operating Systems**: I primarily work on  Windows systems.
 
-## 📚 Learning Plan
+## 😶‍🌫️ Learning Plan
 
 <img align="right" src="https://count.getloli.com/get/@:xiao0812-206?theme=rule34">
 
