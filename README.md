@@ -1,4 +1,5 @@
-<img src="https://github.com/xiao0812-206/xiao0812-206/blob/main/svg/me.svg?short_path=90cfb30" align="left"  style="width: 100%; height: 80%;" />
+
+<img src="https://github.com/xiao0812-206/xiao0812-206/blob/main/svg/me.svg?short_path=90cfb30" align="left"  style="width: 80%; height: 50%;" />
 
 
 
